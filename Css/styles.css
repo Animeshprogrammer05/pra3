@@ -1,0 +1,19 @@
+body{
+    background-color: orange;
+
+}
+
+p{
+    color:blueviolet;
+    font-size: xx-large;
+}
+
+#p1{
+    color:blue;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h1{
+    color: brown;
+}
